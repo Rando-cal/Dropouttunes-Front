@@ -1,5 +1,5 @@
 import './SongSearch.js'
-import Row from 'react-bootstrap/Row'
+// import Row from 'react-bootstrap/Row'
 import React, { useState, Fragment } from 'react'
 // import { Link } from 'react-router-dom'
 
@@ -10,8 +10,8 @@ import Form from 'react-bootstrap/Form';
 // import Offcanvas from 'react-bootstrap/Offcanvas';
 import { songSearch } from '../../api/song.js'
 import { addSongToCart } from '../../api/cart.js'
-import { useNavigate } from 'react-router-dom'
-import { Container, Card, Button } from 'react-bootstrap'
+// import { useNavigate } from 'react-router-dom'
+import {  Card, Button } from 'react-bootstrap'
 
 
 const lb ={backgroundColor: " #005792", width: "14rem"}
@@ -82,7 +82,7 @@ const SongSearch = (props) => {
                         </Form>
                     </Card.Text>
                 </Card.Body>
-         </Card>
+        </Card>
 
     ))
 
