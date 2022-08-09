@@ -1,6 +1,9 @@
 {
   "name": "react-auth-boilerplate",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.16.0"
+  },
   "private": true,
   "dependencies": {
     "@stripe/react-stripe-js": "^1.10.0",
