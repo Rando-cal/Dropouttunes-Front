@@ -50,6 +50,5 @@ Login and save songs to your cart then checkout.
 
 
 ## Roles
-Randy D'Abbraccio & Gonzalo Quiroqa - frontend client
-Lance Nguyen - backend API
-Ryan May - Team Manager
+Randy D'Abbraccio - Frontend & Manager
+Lance Nguyen - Backend API
