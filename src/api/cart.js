@@ -36,7 +36,7 @@ export const addSongToCart = (songIdToAdd,user) => {
 	
 	return axios({
 		method: 'PATCH',
-		url: apiUrl + '/carts'+ `/${songIdToAdd}`,
+		url: apiUrl + `/carts/${songIdToAdd}`,
 		headers: {
 			Authorization: `Token token=${user.token}`,
 			
