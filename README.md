@@ -50,5 +50,5 @@ Login and save songs to your cart then checkout.
 
 
 ## Roles
-Randy D'Abbraccio - Frontend & Manager
+Randy D'Abbraccio - Frontend & Manager |
 Lance Nguyen - Backend API
