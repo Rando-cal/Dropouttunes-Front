@@ -1,7 +1,7 @@
 let apiUrl
 const apiUrls = {
     // YOU MUST CHANGE PRODUCTION URL WHEN DEPLOYING
-	production: 'https://dropouttunes-backend.herokuapp.com/',
+	production: 'https://dropouttunes-backend.herokuapp.com',
 
 	development: 'http://localhost:8000',
 }
